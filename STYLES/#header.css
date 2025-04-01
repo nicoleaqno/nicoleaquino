@@ -20,7 +20,8 @@
         .container__titulo, .container__titulo--negrito {
             font-size: 30px;
         }
-          .container__titulo {
+          
+        .container__titulo {
             font-weight: 400;
             display: block;
           }
